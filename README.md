@@ -4,8 +4,9 @@ Hi there 👋
 
 <p>I'm Mwesiga Tegambwage, I love building learning software development and currently, I create application software that makes an impact and shares open source projects @ <a href="https://github.com/arc1o1">Github</a>.</p>
 
-<p align="center">Let's connect!</p>
+
 <p align="center">
+    <a align="center">Let's connect!</a>
 <a href="https://web.facebook.com/arc1o1/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
