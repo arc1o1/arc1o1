@@ -16,7 +16,7 @@
 </a>
  </p>
 
-### A Student & Developer
+### A Telecommunication Engineer & Mobile Application Developer
 
 <img alt="GIF" src="coding.gif" width="100%" height="400" />
 
@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=black" /> 
+
 </div>
 
 GitHub Streak             |  Mwesiga's GitHub stats
