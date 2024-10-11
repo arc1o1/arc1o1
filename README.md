@@ -32,6 +32,6 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
    
 
-GitHub Streak             |  Zunair's GitHub stats
+GitHub Streak             |  Mwesiga's GitHub stats
 :-------------------------:|:-------------------------:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arc1o1&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Zunair's GitHub sstats](https://github-readme-stats.vercel.app/api?username=arc1o1&count_private=true&theme=radical)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arc1o1&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Mwesiga's GitHub sstats](https://github-readme-stats.vercel.app/api?username=arc1o1&count_private=true&theme=radical)
