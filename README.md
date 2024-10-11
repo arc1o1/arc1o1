@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="../css/social-circles.min.css">
 ### Hi there 👋
+
 <p>I'm Mwesiga Tegambwage, I love building learning software development and currently, I create application software that makes an impact and shares open source projects @ <a href="https://github.com/arc1o1">Github</a>.</p>
 
 <p><a href="http://arc1o1.github.io/">Portfolio Website</a></p>
