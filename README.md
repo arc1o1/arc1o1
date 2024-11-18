@@ -40,4 +40,4 @@
 
 GitHub Streak             |  Mwesiga's GitHub stats
 :-------------------------:|:-------------------------:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arc1o1&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Mwesiga's GitHub sstats](https://github-readme-stats.vercel.app/api?username=arc1o1&count_private=true&theme=radical)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=arc1o1)](https://git.io/streak-stats)(https://git.io/streak-stats) | ![Mwesiga's GitHub sstats](https://github-readme-stats.vercel.app/api?username=arc1o1&count_private=true&theme=radical)
